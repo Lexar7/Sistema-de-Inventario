@@ -1,0 +1,382 @@
+E:\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+E:\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+E:\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+E:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Joel\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Downloads\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+E:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+G:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+G:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+G:\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\figue\Documents\Visual Studio 2015\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\figue\Videos\Captures\Sistema-de-Inventario-preALFA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\SISTEMAS INFORMATICOS\RESPALDO SISTEMA\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\figue\Documents\Ciclo VI\Base de Datos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\figue\Documents\Ciclo VI\Sistemas Informaticos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Desktop\CICLO VI - 2017\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Clientes.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.frmBuscarCliente.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Login.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Principal_Empleado.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Splash.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Usuarios.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Rodrigo\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteProductos.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteClientes.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteVentas.resources
+C:\Users\Rodrigo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteVentasFechas.resources
+F:\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+F:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+F:\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ListaCategorias.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteClientes.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteProductos.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteVentas.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.ReporteVentasFechas.resources
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\EnvDTE.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\stdole.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\EnvDTE80.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\VSLangProj.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\VSLangProj80.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\VSLangProj2.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eduardo\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Eduardo\Desktop\Pantallas\Sistema de Inventario 2.1.2\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eduardo\Desktop\Pantallas\Sistema de Inventario 2.1.2\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eduardo\Desktop\Pantallas\Sistema de Inventario 2.1.2\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
