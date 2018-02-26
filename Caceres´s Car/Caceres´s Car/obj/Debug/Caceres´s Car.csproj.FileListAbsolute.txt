@@ -1,0 +1,19 @@
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\bin\Debug\Caceres´s Car.exe.config
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\bin\Debug\Caceres´s Car.exe
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\bin\Debug\Caceres´s Car.pdb
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres´s Car.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres´s Car.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres´s Car.exe
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres´s Car.pdb
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.InicioSesion.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Menu.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Inicio.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Vehiculos.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Clientes.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Ayuda.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Estadisticas.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Page_Invetario.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Forms.Usuarios.resources
+C:\Users\Eduardo\Desktop\Caceres's Car\Caceres´s Car\Caceres´s Car\obj\Debug\Caceres_s_Car.Forms.CrearUsuario.resources
